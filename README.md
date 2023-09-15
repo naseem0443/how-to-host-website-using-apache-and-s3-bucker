@@ -48,4 +48,5 @@ tmpfs           5.0M     0  5.0M   0% /run/lock
 tmpfs            97M  4.0K   97M   1% /run/user/1000
 s3fs             16E     0   16E   0% /home/ubuntu/s3
 ```
+
 #Configure Apache:
