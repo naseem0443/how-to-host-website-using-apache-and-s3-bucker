@@ -37,6 +37,7 @@ sudo s3fs BUCKET_NAME /home/ubuntu/s3 -o allow_other
 df -h
 
 ```
+```
 df -h result output 
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/root       7.6G  1.8G  5.8G  24% /
@@ -46,4 +47,5 @@ tmpfs           5.0M     0  5.0M   0% /run/lock
 /dev/xvda15     105M  6.1M   99M   6% /boot/efi
 tmpfs            97M  4.0K   97M   1% /run/user/1000
 s3fs             16E     0   16E   0% /home/ubuntu/s3
+```
 #Configure Apache:
